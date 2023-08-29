@@ -1,5 +1,5 @@
-# 💫 About Me:
-Olá, me chamo João Mota 👋<br><br>🔭 FATEC - Redes de Computadores;<br>🖥️ Aluno da Alura;<br>🌱 Estudando HTML, CSS e Javascript;<br>💼 Atualmente a procura de um estágio;<br>👯 Experiências como freelancer e trabalhos da faculdade;<br>❤️ Apaixonado por tecnologia!
+# Olá, me chamo João Mota 👋
+🔭 FATEC - Redes de Computadores;<br>🖥️ Aluno da Alura;<br>🌱 Estudando HTML, CSS e Javascript;<br>💼 Atualmente a procura de um estágio;<br>👯 Experiências como freelancer e trabalhos da faculdade;<br>❤️ Apaixonado por tecnologia!
 
 
 ## 🌐 Socials:
