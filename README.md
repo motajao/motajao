@@ -1,5 +1,4 @@
 # Olá, me chamo João Mota
-🔭 FATEC - Redes de Computadores;<br>🖥️ Aluno da Alura;<br>🌱 Estudando HTML, CSS e Javascript;<br>💼 Atualmente a procura de um estágio;<br>👯 Experiências como freelancer e trabalhos da faculdade;<br>❤️ Apaixonado por tecnologia!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/motajao_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/gabrieljoaomotaleite) 
